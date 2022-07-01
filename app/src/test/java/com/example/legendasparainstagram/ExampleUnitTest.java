@@ -1,4 +1,4 @@
-package com.example.frasesmotivacionais;
+package com.example.legendasparainstagram;
 
 import org.junit.Test;
 
