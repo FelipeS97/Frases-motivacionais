@@ -1,2 +1,2 @@
-# Frases-motivacionais
-App de frases motivacionais
+# Legendas-para-instagram
+App de legendas para instagram
